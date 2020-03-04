@@ -1,0 +1,16 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri":"mysql://root:@localhost/coding",
+        "prod_uri":"mysql://root:@localhost/coding",
+        "fb_url": "https://facebook.com/coding",
+        "tw_url": "https://twitter.com/coding",
+        "gh_url": "https://github.com/coding",
+        "blog_name": "This is coding blog",
+        "tag_line": "This is tag line",
+        "gmail_user": "rohitchaudharylochab@gmail.com",
+        "gmail_password" : "Python@10"
+
+    }
+}
