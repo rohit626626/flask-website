@@ -7,10 +7,12 @@
         "fb_url": "https://facebook.com/coding",
         "tw_url": "https://twitter.com/coding",
         "gh_url": "https://github.com/coding",
-        "blog_name": "This is coding blog",
+        "blog_name": "This is coding blogs",
         "tag_line": "This is tag line",
         "gmail_user": "rohitchaudharylochab@gmail.com",
-        "gmail_password" : "Python@10"
+        "gmail_password" : "Python@10",
+        "no_of_post": 5,
+        "about_text": "This is about page text"
 
     }
 }
